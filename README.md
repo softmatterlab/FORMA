@@ -9,8 +9,9 @@ Laura Pérez García, Jaime Donlucas Pérez, Giorgio Volpe, Alejandro V. Arzola,
 Nature Communications 9, 5166 (2018)
 https://doi.org/10.1038/s41467-018-07437-x
 
+# 1. Requirements to implement FORMA codes in Matlab
 
-#1 Requirements to implement FORMA codes in Matlab
+The data points of your trajectories should be in in a way that the origin is in the center of the trap, i. e. where the $F=0$
 
 
 http://softmatterlab.org
