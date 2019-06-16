@@ -20,7 +20,7 @@ clc
 
 load forma1d.mat
 
-[k_forma1d, D_forma1d] = forma1d(x, Dt, gamma);
+[k_forma1d, D_forma1d] = forma1d(s-s0, Dt, gamma);
 
 disp(['FORMA 1D results:'])
 disp(['k* = ' num2str( k_forma1d ) ' N/m'])
