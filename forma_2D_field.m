@@ -5,8 +5,6 @@
 %   experimental trajectory of a particle with radius R=.48e-6 m in a solution with
 %   viscosity eta=0.0011 Pa s held by a double well optical potential
 %  
-%%%%FALTA LA CALIBRACION DE PIXELES A MICRAS Y SAL;VAR UN SOLO ARCHIVO DE
-%%%%POSICIONES CON LAS POSICIONES YA CALIBRADAS Y SIN EL PICO DE DENSIDAD
   
 clear all
 close all
