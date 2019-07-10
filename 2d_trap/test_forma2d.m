@@ -19,8 +19,8 @@ clear all
 clc
 
 load forma2d.mat
-x=p-p0;
-y=q-q0;
+x=x-x0;
+y=y-y0;
 [k_forma2d, Omega_forma2d, theta_forma2d, D_forma2d] = forma2d([x,y], Dt, gamma);
 
 disp(['FORMA 2D results:'])
